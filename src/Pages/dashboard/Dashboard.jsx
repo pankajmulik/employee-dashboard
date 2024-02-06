@@ -5,8 +5,9 @@ const Dashboard = () => {
   return (
     <div>
       
-      hey there im 
-
+     <h1>
+     Employee dashboard
+     </h1>
 
     </div>
   )
